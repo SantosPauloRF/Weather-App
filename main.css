@@ -3,9 +3,19 @@
   margin: 0;
   padding: 0;
 }
-
 header {
   background-color: #7daef2;
   padding: 16px 0;
   color: #ffffff;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+}
+body{
+background-image: url("https://imagens-cdn.canalrural.com.br/2019/10/chuvagif.gif");
+background-size: cover;
+background-repeat:no-repeat;
 }
